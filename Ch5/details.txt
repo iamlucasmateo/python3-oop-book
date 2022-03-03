@@ -1,0 +1,6 @@
+- DRY
+- objects vs builtin data structures
+- Manager objects
+- Private attributes: in other OOP languages, the idea is that you don't access 
+attributes directly, in case the getter/setter methods are udpated in the future 
+(so that client code doesn't break)
