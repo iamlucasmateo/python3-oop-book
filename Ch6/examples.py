@@ -97,3 +97,6 @@ print(my_list)
 print("\nsorting tuples by second element (using key)")
 my_list.sort(key=itemgetter(1))
 print(my_list)
+
+# Sets: most useful when we use more than one
+# add, union, intersection, difference, symmetric_difference
